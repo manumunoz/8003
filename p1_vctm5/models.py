@@ -4,7 +4,6 @@ from otree.api import (
 )
 import random
 import itertools
-import csv
 
 
 author = 'Manu Munoz-Herrera'
