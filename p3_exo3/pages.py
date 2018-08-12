@@ -98,29 +98,22 @@ class Beliefintro(Page):
     def is_displayed(self):
         return self.player.correct == 1
 
-class Beliefsa(Page):
-    def is_displayed(self):
-        return self.player.correct == 1
-
-    form_model = 'player'
-    form_fields = ['belief1']
-
-class Beliefsendo(Page):
-    def is_displayed(self):
-        return self.player.correct == 1 and self.player.treat >= 3
-
-    form_model = 'player'
-    form_fields = ['belief_endo']
-
 class Beliefsb(Page):
     def is_displayed(self):
         return self.player.correct == 1 and self.player.treat >= 2
 
     form_model = 'player'
-    form_fields = ['belief3']
+    form_fields = ['belief2']
 
-    def before_next_page(self):
-        self.player.set_payoffs()
+
+class Beliefsa(Page):
+    def is_displayed(self):
+        return self.player.correct == 1 and self.player.treat <= 2 \
+        or self.player.correct == 1 and self.player.treat == 3 and self.player.exo_click == 0 \
+        or self.player.correct == 1 and self.player.treat >= 4 and self.player.endo_click == 0 \
+
+    form_model = 'player'
+    form_fields = ['belief1']
 
 class Pretest(Page):
     def is_displayed(self):
@@ -128,6 +121,9 @@ class Pretest(Page):
 
     form_model = 'player'
     form_fields = ['pretest1','pretest2','pretest3']
+
+    def before_next_page(self):
+        self.player.set_payoffs()
 
 class Pass(Page):
     def is_displayed(self):
