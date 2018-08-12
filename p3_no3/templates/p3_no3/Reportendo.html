@@ -1,0 +1,62 @@
+{% extends "p3_no3/Style.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+    <h2 id="bold">Task 1: Report.</h2>
+{% endblock %}
+
+{% block content %}
+
+<div>
+    <p>
+        The image illustrates the order in which the players send messages reporting on the <b id="hidden"> hidden number </b>.
+        <br><br>
+
+        <div class="center">
+        {% if player.treat == 2 %} <!-- NO -->
+                <img width="750" height="150" src="{% static "p3_no3/T2_Img_Sequence_NO_3.png" %}"/>
+
+        {% elif player.treat == 3 %} <!-- EXO -->
+                <img width="750" height="150" src="{% static "p3_no3/T3_Img_Sequence_EXO_3.png" %}"/>
+
+        {% elif player.treat == 4 %} <!-- ENDO -->
+                <img width="750" height="150" src="{% static "p3_no3/T4_Img_Sequence_ENDO_3.png" %}"/>
+
+        {% elif player.treat == 5 %} <!-- VCTM -->
+                <img width="750" height="150" src="{% static "p3_no3/T5_Img_Sequence_VCTM_3.png" %}"/>
+
+        {% else %} <!-- VCTM5 -->
+                <img width="750" height="150" src="{% static "p3_no3/T11_Img_Sequence_VCTM_5.png" %}"/>
+        {% endif %} <!-- -->
+        </div>
+
+        <br>
+
+        You are <b id="large">P3</b>. The number below was the message sent by P2 reporting on the <b id="hidden"> hidden number </b> that was drawn.
+
+        <br>
+
+        <div class="center">
+            <b id="big">{{ player.report_2 }}</b>
+        </div>
+    </p>
+</div>
+<div>
+
+    <br><br>
+
+    You can see the <b id="hidden"> hidden number </b> P1 drew by clicking on the show button or proceed to send the final message by clicking on continue:
+
+    <br><br>
+
+    <center>
+    <button name="endo_click" value="True" class="btn btn-info btn-large">Show the hidden number</button>
+
+    <br><br>
+
+    <button name="endo_click" value="False" class="btn btn-primary btn-large">Continue</button>
+    </center>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "p3_exo3/Style.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+    <h2 id="bold">Task 2: How do you think others play in this game?</h2>
+{% endblock %}
+
+{% block content %}
+
+    {% include Constants.instructions_belief_hiddennumber %}
+
+    {% if player.treat == 1 %} <!-- FRST -->
+    <p>
+        The <b id="final">final message</b> P1 sent reporting on the <b id="hidden"> hidden number </b> was <b id="bold">{{player.report_1}}</b>.
+        What number do you think P1 drew as the <b id="hidden"> hidden number</b> before sending the <b id="final">final message</b>?
+    </p>
+
+    {% else %} <!-- VCTM5 -->
+    <p>
+        You said the message P1 sent to P2 reporting on the <b id="hidden"> hidden number </b> was <b id="bold">{{player.belief2}}</b>.
+        What number do you think P1 drew as the <b id="hidden"> hidden number</b> before sending his report to P2?
+
+    </p>
+    {% endif %} <!-- -->
+
+    <br>
+
+    {% formfield player.belief1  label="" %}
+
+    <button type="otree-btn-next" class="btn btn-primary btn-md"> Continue </button>
+
+{% endblock %}
