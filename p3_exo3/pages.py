@@ -152,10 +152,10 @@ page_sequence = [
     NoReport,
     Report,
     Beliefintro,
-    Beliefsa,
-    Beliefsendo,
     Beliefsb,
+    Beliefsa,
     Pretest,
     Pass,
     NoPass,
 ]
+
