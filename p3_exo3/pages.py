@@ -92,7 +92,7 @@ class Report(Page):
         return self.player.correct == 1 and self.player.treat >= 2
 
     form_model = 'player'
-    form_fields = ['report_2']
+    form_fields = ['report_3']
 
 class Beliefintro(Page):
     def is_displayed(self):
