@@ -66,7 +66,7 @@ class Player(BasePlayer):
     endo_click = models.BooleanField() # Player 3 verifies
     random_show = models.IntegerField() # Randomly generated number
     inst_show = models.BooleanField(blank=True,)
-    correct = models.BooleanField() # Use it as conditional to show or skip screens and end the game
+    correct = models.IntegerField() # Use it as conditional to show or skip screens and end the game
     belief1 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Reported belief on P1's choices
     belief2 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Reported belief on P2's choices
     belief3 = models.IntegerField(min=Constants.min_report, max=Constants.max_report) # Reported belief on P3's choices
