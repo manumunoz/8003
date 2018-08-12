@@ -1,81 +1,161 @@
-id,treat,code_pay,role,group,hidden_number,report1,report2,duplicate,id_play,last_page,ip_address,start_time,correct,chosen_card,report3,observed,belief1,belief2,belief3,belief_observed,payoff,gender,ethnicity,race,age,education,state,income,q1,q2,q3,correct_belief,realdata
-1,FRST3,mpqzmjm9bhilwu7c,P2,1034467624,9,30,NA,1,81,Pass,68.19.151.152,2018-08-07 20:40:51.973378+00:00,Passed,NA,NA,NA,30,NA,NA,NA,0,Female,Non hispanic,White,44,College diploma,24,"$10,000 - $19,999",A study to see how well people pay attention to instructions.,1,I enjoyed the survey.,1,1
-2,FRST3,muhy0ulwbhilwu7c,P2,1277931993,14,14,NA,1,9,Pass,104.230.57.40,2018-08-07 14:50:06.704829+00:00,Passed,NA,NA,NA,12,NA,NA,NA,0,Male,Non hispanic,White,24,College diploma,35,"$50,000 - $59,999",To see how people react when they are responsible for conveying important information to others.,4,"I can't think of much besides paying more (but that always applies), this was as good as it gets as far as mturk work goes.",1,1
-3,FRST3,u9ukpgzxbhilwu7c,P2,1403716622,9,30,NA,1,61,Pass,128.104.85.8,2018-08-07 18:54:19.812348+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,21,Some college,50,"$10,000 - $19,999",To find out how people would report a hidden number when motivated by money,3,You couldn't have,1,1
-4,FRST3,fy0ts44ubhilwu7c,P2,1553353308,2,30,NA,1,71,Pass,96.245.239.148,2018-08-07 19:43:05.806470+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,45,College diploma,38,"$70,000 - $79,999","If your goal is to get the most bonus money, no matter what the number is you draw, you should report the number is 30 to receive the highest payoff.  This is not the ethical thing to do though and is lying.  The goal is P1 draws a number and reports it and P2 and P3 are passive players.  The number P1 reports is multiplied by 5 and that is the bonus you get.  If you play ethically, you may have a chance of getting less bonus.",2,none at all  It was good,1,1
-5,FRST3,eqv9f1nrbhilwu7c,P2,1612244340,9,30,NA,1,70,Pass,166.176.249.61,2018-08-07 19:37:13.255281+00:00,Passed,NA,NA,NA,7,NA,NA,NA,0,Female,Non hispanic,White,35,Some college,35,"$30,000 - $39,999","To see if players 2 & 3 believe player 1 really drew the 30. Or to see if player 1 would report the real number drawn, or report 30.",2,It was good already,1,1
-6,FRST3,ga3y4wc4bhilwu7c,P2,1683282369,10,10,NA,1,45,Pass,173.170.40.248,2018-08-07 18:02:57.289131+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,Black/African American,35,College diploma,10,"$30,000 - $39,999",Pick the card with the highest bonus pay out.,4,Not sure.,1,1
-7,FRST3,4czb8akabhilwu7c,P2,1686017610,11,11,NA,1,40,Pass,76.97.250.135,2018-08-07 17:32:37.355624+00:00,Passed,NA,NA,NA,11,NA,NA,NA,0,Male,Non hispanic,Hispanic/Latino/Latina,38,Some college,11,"< $10,000",How people follow orders and instructions,2,It was all fine overall,1,1
-8,FRST3,5t7nikf4bhilwu7c,P2,2129676156,9,30,NA,1,80,Pass,70.191.225.237,2018-08-07 20:39:23.323456+00:00,Passed,NA,NA,NA,30,NA,NA,NA,0,Female,Non hispanic,White,49,Some college,10,"$40,000 - $49,999",To determine the outcome of the hidden number from the variations of numbers given.,1,No improvement necessary,1,1
-9,FRST3,s8muaapvbhilwu7c,P2,2208466397,10,20,NA,1,59,Pass,190.124.31.5,2018-08-07 18:47:50.323685+00:00,Passed,NA,NA,NA,12,NA,NA,NA,0,Male,Non hispanic,White,30,Masters degree,10,"$70,000 - $79,999","as an activity to be carried out in a group, making decisions and how they affect the other participants",3,no comment,1,1
-10,FRST3,hdx40tjmbhilwu7c,P2,3398003989,7,7,NA,1,25,Pass,104.14.110.135,2018-08-07 16:31:45.345692+00:00,Passed,NA,NA,NA,7,NA,NA,NA,0,Female,Non hispanic,White,38,Some college,22,"$10,000 - $19,999","I think they are trying to see if people lie, and if others THINK they are lying based on performance.",3,"N/A, very well laid out and easy to follow.",1,1
-11,FRST3,dnoqs0e2bhilwu7c,P2,3462410302,1,1,NA,1,1,Pass,35.139.77.26,2018-08-07 13:58:15.439493+00:00,Passed,NA,NA,NA,3,NA,NA,NA,0,Male,Non hispanic,White,45,College diploma,10,"$10,000 - $19,999",determining whether others are truthful.,4,it's ok,1,1
-12,FRST3,ffw8vw46bhilwu7c,P2,3467297610,30,30,NA,1,74,Pass,75.87.100.146,2018-08-07 20:19:31.058901+00:00,Passed,NA,NA,NA,11,NA,NA,NA,0,Female,Non hispanic,White,30,College diploma,43,"< $10,000",To get money,2,na,1,1
-13,FRST3,fqwknh5ybhilwu7c,P2,3621001022,7,25,NA,1,23,Pass,207.225.107.172,2018-08-07 16:14:15.343282+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,48,College diploma,6,I do not wish to report my income.,I couldnt,4,no idea,1,1
-14,FRST3,r78sfc10bhilwu7c,P2,3630154851,7,30,NA,1,82,Pass,24.129.96.251,2018-08-07 20:41:02.599308+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,Black/African American,35,College diploma,10,"< $10,000",trust,3,active role,1,1
-15,FRST3,vkczamp5bhilwu7c,P2,3868563718,9,9,NA,1,19,Pass,104.54.230.202,2018-08-07 15:58:46.167878+00:00,Passed,NA,NA,NA,9,NA,NA,NA,0,Male,Non hispanic,White,63,Some college,43,"$50,000 - $59,999",The objective is to report the hidden number but the participant goal is to report the number that determines the highest return for the players.,1,I thought it was great as it is now.,1,1
-16,FRST3,kxubi4vibhilwu7c,P2,3902014166,25,25,NA,1,21,Pass,68.224.162.219,2018-08-07 16:06:16.512558+00:00,Passed,NA,NA,NA,15,NA,NA,NA,0,Female,Non hispanic,White,40,Some college,27,"$20,000 - $29,999",To make the best educated guess,4,none,1,1
-17,FRST3,28tiz6tabhilwu7c,P2,4095880988,8,8,NA,1,34,Pass,108.213.15.67,2018-08-07 16:58:59.555434+00:00,Passed,NA,NA,NA,4,NA,NA,NA,0,Male,Non hispanic,White,19,Some college,35,"< $10,000",The goal is to predict the number in which P1 will report in the final message.,1,I would have liked if I was shown when and how P1 picked the number in which they did.,1,1
-18,FRST3,kno5ygylbhilwu7c,P2,4587271130,9,20,NA,1,53,Pass,98.255.239.86,2018-08-07 18:29:09.095701+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,36,College diploma,5,"$30,000 - $39,999",Very unsure of the aim of this study.,2,Everything was clear and no problems.,1,1
-19,FRST3,qf7bgv02bhilwu7c,P2,4823600447,11,11,NA,1,38,Pass,24.111.249.99,2018-08-07 17:22:31.499508+00:00,Passed,NA,NA,NA,11,NA,NA,NA,0,Male,Non hispanic,White,24,College diploma,41,"$30,000 - $39,999",Whether or not the person in charge lies to benefit others,4,If i was P1,1,1
-20,FRST3,iw03x13ubhilwu7c,P2,4837529222,29,29,NA,1,8,Pass,24.51.190.8,2018-08-07 14:47:47.129626+00:00,Passed,NA,NA,NA,29,NA,NA,NA,0,Male,Non hispanic,White,32,Some college,38,"$30,000 - $39,999",trusting other team members to make decisions in every ones best interest,2,an example,1,1
-21,FRST3,6d7rc8hxbhilwu7c,P2,5318347353,9,9,NA,1,18,Pass,159.53.78.142,2018-08-07 15:57:42.487888+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,29,College diploma,50,"$120,000 - $149,999",It benefits to lie if you are player 1 so everyone can benefit in the end.,1,Nothing. Super easy.,1,1
-22,FRST3,sry0p6zsbhilwu7c,P2,5461037940,11,30,NA,1,67,Pass,50.193.178.82,2018-08-07 19:17:39.944435+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,53,Masters degree,42,"$20,000 - $29,999","paying attention to the rules of the game, as per payout and instructions.",4,Made it more fun by letting us actual try to get a good number.,1,1
-23,FRST3,e4j8fbv7bhilwu7c,P2,5633484788,9,9,NA,1,17,Pass,107.170.186.79,2018-08-07 15:47:25.147687+00:00,Passed,NA,NA,NA,12,NA,NA,NA,0,Male,Non hispanic,White,30,Masters degree,10,"$50,000 - $59,999",The objective is to trust your colleagues to do things well,3,can play as the player p1,1,1
-24,FRST3,79izc6n1bhilwu7c,P2,5864903011,8,8,NA,1,35,Pass,71.237.166.84,2018-08-07 17:07:59.730573+00:00,Passed,NA,NA,NA,18,NA,NA,NA,0,Female,Non hispanic,White,29,Some college,37,"< $10,000",perceptions of teamwork and memory recall,3,Making the instructions more concise could help.,1,1
-25,FRST3,q7sickrubhilwu7c,P2,5905072759,6,6,NA,1,13,Pass,174.126.154.45,2018-08-07 15:03:58.124363+00:00,Passed,NA,NA,NA,4,NA,NA,NA,0,Female,Non hispanic,White,28,College diploma,36,"$20,000 - $29,999",guessing what others are doing,1,I thought it was very easy,1,1
-26,FRST3,qunvvzj9bhilwu7c,P2,6643486403,20,20,NA,1,51,Pass,209.194.199.4,2018-08-07 18:23:46.554862+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,36,College diploma,32,"$60,000 - $69,999",To see if you think P1 was honest in their reporting of the final message number.,2,I don't see anything that needs to be improved.,1,1
-27,FRST3,dsizsyq8bhilwu7c,P2,6675129932,10,30,NA,1,75,Pass,12.45.176.50,2018-08-07 20:20:48.782536+00:00,Passed,NA,NA,NA,20,NA,NA,NA,0,Male,Non hispanic,Hispanic/Latino/Latina,30,Some college,5,"$40,000 - $49,999",honesty,2,none,1,1
-28,FRST3,kozifpolbhilwu7c,P2,6947808731,3,30,NA,1,69,Pass,192.234.2.49,2018-08-07 19:36:36.623824+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,34,College diploma,5,"$120,000 - $149,999",To see what a person will report if it gets someone else extra money,2,better pictures,1,1
-29,FRST3,5h35496ubhilwu7c,P2,7201552387,7,7,NA,1,27,Pass,129.111.82.48,2018-08-07 16:39:52.713676+00:00,Passed,NA,NA,NA,7,NA,NA,NA,0,Male,Non hispanic,White,26,College diploma,43,"$20,000 - $29,999",Wait to see what another player decides to report your earnings as.,4,More involvement,1,1
-30,FRST3,m2t3qk4tbhilwu7c,P2,7350532645,10,10,NA,1,43,Pass,192.182.93.104,2018-08-07 17:53:01.262784+00:00,Passed,NA,NA,NA,7,NA,NA,NA,0,Male,Hispanic,White,20,Some college,5,"$30,000 - $39,999",You have to either pick a random number or be passive on the number and just guess whether player 1 told the truth.,1,Everything was pretty clear,1,1
-31,FRST3,vizxep9xbhilwu7c,P2,7440564895,6,25,NA,1,22,Pass,73.248.227.73,2018-08-07 16:08:38.358257+00:00,Passed,NA,NA,NA,25,NA,NA,NA,0,Male,Non hispanic,Black/African American,20,Some college,30,"$10,000 - $19,999","The purpose of this game is to evaluate individual perceptions and their honesty in reporting given numbers in a task. The goal of this study is to honestly report, or gain the most points such that a compensation bonus can be maximized.",2,I would like to know my bonus at this point or very soon. Survey was otherwise very comprehensive.,1,1
-32,FRST3,1vs9kyrebhilwu7c,P2,7473476962,22,22,NA,1,7,Pass,66.242.218.46,2018-08-07 14:37:30.079880+00:00,Passed,NA,NA,NA,15,NA,NA,NA,0,Male,Non hispanic,White,27,College diploma,14,"$50,000 - $59,999",If people will lie to get more money,1,I am not sure to be honest. The instructions were clear for the most part. A few parts were confusing but it was nothing crazy,1,1
-33,FRST3,63skz59dbhilwu7c,P2,7834282428,5,5,NA,1,3,Pass,68.32.199.70,2018-08-07 14:22:25.739198+00:00,Passed,NA,NA,NA,5,NA,NA,NA,0,Female,Non hispanic,Black/African American,36,Masters degree,22,"< $10,000",Guessing how the participants are true,1,None,1,1
-34,FRST3,kkqg8zhrbhilwu7c,P2,7885978277,8,8,NA,1,31,Pass,184.223.190.173,2018-08-07 16:53:34.522669+00:00,Passed,NA,NA,NA,8,NA,NA,NA,0,Female,Non hispanic,Black/African American,46,College diploma,50,"$80,000 - $99,999",How honest people are,2,"Nothing really, it was unique and interesting just the way it is :)",1,1
-35,FRST3,gwx2yxfnbhilwu7c,P2,8460445455,10,30,NA,1,68,Pass,68.36.74.74,2018-08-07 19:27:33.910902+00:00,Passed,NA,NA,NA,28,NA,NA,NA,0,Female,Non hispanic,White,31,College diploma,22,"$40,000 - $49,999",How honestly people report information depending on the reward.,4,The instructions were really long. I think you could have simplified them.,1,1
-36,FRST3,4v4t8bkpbhilwu7c,P2,8474284097,8,8,NA,1,33,Pass,104.176.174.64,2018-08-07 16:57:23.393633+00:00,Passed,NA,NA,NA,3,NA,NA,NA,0,Female,Non hispanic,White,28,Some college,1,"< $10,000",lying to get more money,4,unsure,1,1
-37,FRST3,0simrz9hbhilwu7c,P2,8566721478,6,30,NA,1,77,Pass,174.255.135.218,2018-08-07 20:31:40.571657+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,56,College diploma,24,"$70,000 - $79,999",A passive game and a game in which on person draws a numbers and passes it on. We all earn money,3,It was fun,1,1
-38,FRST3,uuu804qcbhilwu7c,P2,8633535452,8,30,NA,1,79,Pass,12.147.140.123,2018-08-07 20:37:00.839508+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,45,Professional post-secondary degree or doctoral degree,43,"$80,000 - $99,999",To try to predict human behavior.,3,I can't think of anything.,1,1
-39,FRST3,94da33hvbhilwu7c,P2,8791118882,10,10,NA,1,44,Pass,73.183.34.156,2018-08-07 18:01:51.184080+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,30,High school or equivalent,38,"$10,000 - $19,999",to learn how people make choices,3,n/a,1,1
-40,FRST3,e9o4vnw9bhilwu7c,P2,9166091870,11,30,NA,1,65,Pass,129.72.122.78,2018-08-07 19:16:45.885448+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,36,Professional post-secondary degree or doctoral degree,51,"$70,000 - $79,999",To see how likely P1 is to inflate the amount of the hidden number based on what information P2 & P3 get,2,N/A,1,1
-41,FRST3,qyy4gjrkbhilwu7c,P2,9262692452,7,7,NA,1,28,Pass,97.117.98.204,2018-08-07 16:42:04.842847+00:00,Passed,NA,NA,NA,7,NA,NA,NA,0,Male,Non hispanic,White,30,Masters degree,44,"$40,000 - $49,999",I have absolutely no idea,2,"Maybe make the instructions a bit more concise, they rambled on a bit.",1,1
-42,FRST3,ip7r4dtlbhilwu7c,P2,9345739981,13,30,NA,1,66,Pass,174.221.6.69,2018-08-07 19:17:27.516141+00:00,Passed,NA,NA,NA,30,NA,NA,NA,0,Female,Non hispanic,White,52,Some college,14,"$20,000 - $29,999",P1 reports the hidden number in their final message to the other 2 players.,3,No improvement needed,1,1
-43,FRST3,pewo6phqbhilwu7c,P2,9456009539,12,12,NA,1,16,Pass,67.240.16.20,2018-08-07 15:40:20.988189+00:00,Passed,NA,NA,NA,9,NA,NA,NA,0,Female,Non hispanic,White,51,High school or equivalent,32,"< $10,000",A test on whether you tell the truth for money or not.,2,Can't think of anything,1,1
-44,FRST3,7salkshtbhilwu7c,P2,9492778415,9,9,NA,1,20,Pass,73.204.31.108,2018-08-07 16:02:29.070791+00:00,Passed,NA,NA,NA,6,NA,NA,NA,0,Female,Non hispanic,Hispanic/Latino/Latina,27,Masters degree,10,"$30,000 - $39,999",I am not sure.,2,It was fine the way it is.,1,1
-45,FRST3,tf1s9exfbhilwu7c,P2,1317853748,11,11,NA,2,129,Pass,73.249.231.75,2018-08-08 01:44:09.582399+00:00,Passed,NA,NA,NA,8,NA,NA,NA,0,Female,Non hispanic,White,27,Masters degree,29,I do not wish to report my income.,The study is to determine whether or not a player is likely to report the same number as the hidden number or to risk saying a higher number knowing that the amount they and the other players of the task will get paid to make a little more money.,3,Instructions could be a little more clear.,1,1
-46,FRST3,am60w673bhilwu7c,P2,1901770244,11,11,NA,2,125,Pass,71.55.162.40,2018-08-08 01:13:17.985692+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,33,Some college,10,"< $10,000",a easy way to make some extra money guessing,1,"nothing i have seen so far, i find it interesting",1,1
-47,FRST3,vhreqhvcbhilwu7c,P2,1938160896,11,20,NA,2,108,Pass,64.217.149.64,2018-08-08 00:15:53.812193+00:00,Passed,NA,NA,NA,20,NA,NA,NA,0,Female,Non hispanic,Hispanic/Latino/Latina,46,Masters degree,11,"$10,000 - $19,999","I would describe the goal of this study as an honesty checker. I would describe it as an honesty checker because, in the end, P1 could write down any number for the final message to get a higher monetary reward. Also, there was only one number 20 in the whole pile so I doubt it was actually drawn.",1,"No, it was great!",1,1
-48,FRST3,mronsu6jbhilwu7c,P2,2089228338,7,7,NA,2,136,Pass,67.184.6.26,2018-08-08 02:33:19.222486+00:00,Passed,NA,NA,NA,6,NA,NA,NA,0,Male,Non hispanic,White,30,Professional post-secondary degree or doctoral degree,14,"$100,000 - $119,999","It might be related to game theory. I think it's something related to how I anticipate others acting, but I'm honestly not 100% sure.",4,The end goal seemed a little confusing (see question #2),1,1
-49,FRST3,vqvuksf5bhilwu7c,P2,2471581662,9,30,NA,2,94,Pass,99.203.14.219,2018-08-07 21:40:16.800167+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,31,Some college,14,"$20,000 - $29,999","To see if people behave in their own best interest, even if dishonest.",2,None,1,1
-50,FRST3,m37jpntzbhilwu7c,P2,2710413478,10,10,NA,2,121,Pass,75.88.167.196,2018-08-08 01:02:05.073352+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,60,College diploma,11,"$70,000 - $79,999","This whole study was slightly confusing. I really don't see the point of it, unless you are predicting if P1 will lie about the amount he drew?",5,Have a game that wasn't quite so obtuse.,1,1
-51,FRST3,934sot7nbhilwu7c,P2,2723757741,8,30,NA,2,93,Pass,71.38.36.55,2018-08-07 21:30:07.124175+00:00,Passed,NA,NA,NA,12,NA,NA,NA,0,Female,Non hispanic,White,48,College diploma,28,"$80,000 - $99,999",if one can follow directions: if P1 is honest about their reporting,2,"the instructions were very detailed, but were they necessary (I expected to be P2 or P3?",1,1
-52,FRST3,6vwms5k5bhilwu7c,P2,3329144730,20,20,NA,2,107,Pass,174.81.151.221,2018-08-08 00:15:50.503521+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,61,College diploma,1,"$70,000 - $79,999","Earn money by guessing a secret number that P1 picked. Strategy may dictate that P2 or P3 guess that P1 lied about the secret card and instead picked one of the more common, frequently placed cards.",1,"The second instructions were a little confusing. I thought the ""order"" of the message sent to P2 and P3 might mean that P2 was responsible to pass the message to P3, having an opportunity to tell accurately what P1 relayed or lie about what P1 relayed.",1,1
-53,FRST3,etce3n30bhilwu7c,P2,3882032862,11,11,NA,2,127,Pass,69.116.2.78,2018-08-08 01:15:39.849579+00:00,Passed,NA,NA,NA,11,NA,NA,NA,0,Female,Non hispanic,White,25,College diploma,30,"$20,000 - $29,999",Guessing honesty of team members,2,I can't think of anything.,1,1
-54,FRST3,g85z67bdbhilwu7c,P2,3989813267,9,30,NA,2,102,Pass,162.197.160.21,2018-08-07 22:41:36.615435+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,Hispanic/Latino/Latina,22,Some college,10,"$20,000 - $29,999",to test our critical thinking skills,3,nothing,1,1
-55,FRST3,epq414sabhilwu7c,P2,4024506828,30,30,NA,2,90,Pass,75.165.112.231,2018-08-07 21:23:31.719587+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,25,High school or equivalent,38,"< $10,000",To see if people assume that other people (the active players) in the study will lie to get more money from the bonus.,2,"There were some grammatical errors, such as ""another participants""",1,1
-56,FRST3,2belz80rbhilwu7c,P2,4050289723,11,30,NA,2,100,Pass,108.184.171.98,2018-08-07 22:33:22.155111+00:00,Passed,NA,NA,NA,30,NA,NA,NA,0,Male,Non hispanic,White,44,College diploma,5,"$40,000 - $49,999",I would describe it as something that doesn't concern me. I answered honestly and I'll leave the research and study to the requester. I also understand the value of not revealing anything to outside sources.,3,Not given me so much to read and understand when most of it didn't even matter in my final decisions.,1,1
-57,FRST3,ouqsx9xwbhilwu7c,P2,4587859267,9,20,NA,2,109,Pass,184.89.106.1,2018-08-08 00:18:23.231503+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,38,College diploma,10,"$50,000 - $59,999",I would describe it as a weird blend of math and psychology.,3,"If this is the end, then it was really great.",1,1
-58,FRST3,ivudpc3lbhilwu7c,P2,4944621495,11,11,NA,2,128,Pass,73.9.194.109,2018-08-08 01:30:06.279098+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,53,College diploma,14,"$20,000 - $29,999",I think the goal is to determine if people think P1 would report the hidden number honestly or not.,1,I can't think of any improvements. The survey and instructions were very clear and concise if you read carefully.,1,1
-59,FRST3,donim0nubhilwu7c,P2,5214081075,8,8,NA,2,135,Pass,76.178.179.180,2018-08-08 02:33:06.810383+00:00,Passed,NA,NA,NA,8,NA,NA,NA,0,Male,Non hispanic,White,41,Masters degree,47,"$40,000 - $49,999",my perception of how truthful participants are when they are given the opportunity to lie and make more money.,2,"i have no suggestions, it was a good experience. thank you.",1,1
-60,FRST3,0v0q7oijbhilwu7c,P2,5238558221,6,30,NA,2,105,Pass,208.100.142.133,2018-08-07 23:48:33.193356+00:00,Passed,NA,NA,NA,30,NA,NA,NA,0,Female,Non hispanic,White,27,College diploma,37,"$70,000 - $79,999",Determining the honesty of the players in a game.,3,Simplified instructions,1,1
-61,FRST3,szijjjuwbhilwu7c,P2,5452480447,8,8,NA,2,133,Pass,75.128.91.109,2018-08-08 01:50:37.272024+00:00,Passed,NA,NA,NA,4,NA,NA,NA,0,Female,Non hispanic,White,55,College diploma,22,"$30,000 - $39,999","I think the goal is to see how honestly people provide the ""final message"" when there is no penalty attached to not being honest.",2,"I just kept looking to see if there was some kind of penalty for not reporting the actual hidden number in the final message.  So, I read through the instructions a few time to make sure I didn't miss something",1,1
-62,FRST3,jw2drn9xbhilwu7c,P2,5924274120,7,20,NA,2,106,Pass,73.126.7.208,2018-08-08 00:07:21.266867+00:00,Passed,NA,NA,NA,18,NA,NA,NA,0,Female,Non hispanic,White,38,College diploma,7,"$70,000 - $79,999","A probability game of picking certain numbers. Based on the number choice, a bonus is given.",2,n/a,1,1
-63,FRST3,dx3dfo3sbhilwu7c,P2,6136893538,10,10,NA,2,122,Pass,75.162.150.159,2018-08-08 01:02:24.710570+00:00,Passed,NA,NA,NA,25,NA,NA,NA,0,Male,Non hispanic,White,22,College diploma,16,"< $10,000",If people are willing to answer the highest number to get more money.,2,It was good all around,1,1
-64,FRST3,fwrux3pdbhilwu7c,P2,6406771025,8,20,NA,2,113,Pass,72.77.34.227,2018-08-08 00:25:22.985869+00:00,Passed,NA,NA,NA,20,NA,NA,NA,0,Male,Non hispanic,White,26,High school or equivalent,38,"$10,000 - $19,999","The rules were the most confusing part, I think that it was a bot that did most of the game and it was mostly to see how well someone can follow instructions. I doubt you could ever actually be the P1 player.",3,"It was fine as far as surveys go. Maybe a bit obvious that it wasn't an actual game, but I'll take the free money.",1,1
-65,FRST3,6a0vaqycbhilwu7c,P2,6733190728,10,10,NA,2,116,Pass,76.111.22.33,2018-08-08 00:31:30.688075+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,38,College diploma,46,"> $200,000",To evaluate users' critical thinking skills.,4,The instructions seemed to be far too complicated for something so straightforward.,1,1
-66,FRST3,oxivlzfcbhilwu7c,P2,7426976779,2,30,NA,2,103,Pass,66.168.205.54,2018-08-07 23:42:32.396602+00:00,Passed,NA,NA,NA,18,NA,NA,NA,0,Female,Non hispanic,White,26,Some college,11,"$30,000 - $39,999",The see the thoughts of team players when given certain tasks,3,It was pretty easy and straight forward,1,1
-67,FRST3,g5x4q54ubhilwu7c,P2,8242110999,10,10,NA,2,119,Pass,98.221.122.111,2018-08-08 00:49:26.226488+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,43,College diploma,30,"$60,000 - $69,999",I think the goal of this study is to see if people would play by the rules.,2,"The quiz stressed me out and some of the questions were a little tricky, although I'm sure it was designed that way.",1,1
-68,FRST3,7smzj51xbhilwu7c,P2,8248647697,10,10,NA,2,120,Pass,104.236.70.228,2018-08-08 01:01:42.679742+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Male,Non hispanic,White,37,Some college,47,"$10,000 - $19,999",The study tries to understand how people perceive others.,4,I think the survey experience was okay.,1,1
-69,FRST3,r9xmyzmibhilwu7c,P2,9070329436,11,20,NA,2,114,Pass,180.23.174.9,2018-08-08 00:29:08.040248+00:00,Passed,NA,NA,NA,20,NA,NA,NA,0,Female,Non hispanic,White,30,Masters degree,33,"$60,000 - $69,999",For P1 to report the number in the hidden message,3,N/A,1,1
-70,FRST3,5k6pdockbhilwu7c,P2,9156963683,7,7,NA,2,138,Pass,98.214.196.99,2018-08-08 02:45:52.406562+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,White,51,College diploma,14,"$30,000 - $39,999",The goal of this study is following directions.,4,Make a more interesting game.,1,1
-71,FRST3,ay3lhb7abhilwu7c,P2,9720220340,9,30,NA,2,97,Pass,190.113.111.122,2018-08-07 21:41:42.211459+00:00,Passed,NA,NA,NA,27,NA,NA,NA,0,Male,Hispanic,Native Hawaiian/Pacific Islander,25,College diploma,11,"< $10,000",to guess the number p1 really saw,2,"i dont know it has it complexity but at the same time it is easy, so i think it is ok the way you presented",1,1
-72,FRST3,ik7yscuckeec0csg,P2,4595193272,15,15,NA,1,3,Pass,73.6.26.80,2018-08-09 17:50:44.816038+00:00,Passed,NA,NA,NA,15,NA,NA,NA,0,Female,Non hispanic,White,34,Masters degree,43,"< $10,000",To predict how honest people are and how honest people think other people will be.,2,IT was fine.,1,1
-73,FRST3,q426n5zhkeec0csg,P2,4795289764,7,16,NA,1,4,Pass,189.204.168.236,2018-08-09 17:55:39.092954+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,Native Hawaiian/Pacific Islander,37,College diploma,5,"$50,000 - $59,999",The goal is to pick the highest number to be paid the most,2,It was great wouldn't change a thing,1,1
-74,FRST3,5x7l64ikkeec0csg,P2,5495489703,6,6,NA,1,8,Pass,99.203.1.15,2018-08-09 19:15:16.909614+00:00,Passed,NA,NA,NA,6,NA,NA,NA,0,Female,Non hispanic,White,31,Professional post-secondary degree or doctoral degree,35,"$60,000 - $69,999",To determine how honest or dishonest people are when given an opportunity to cheat to earn additional money.,4,No suggestions,1,1
-75,FRST3,uucic7tnkeec0csg,P2,5728916070,14,14,NA,1,2,Pass,96.249.230.160,2018-08-09 17:37:56.830294+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,Hispanic/Latino/Latina,44,College diploma,46,"$60,000 - $69,999",Guessing the probability of a number pulled,4,You couldn't,1,1
-76,FRST3,xf9tztw8keec0csg,P2,7297924041,2,2,NA,1,1,Pass,136.59.160.252,2018-08-09 15:44:31.311830+00:00,Passed,NA,NA,NA,2,NA,NA,NA,0,Female,Non hispanic,White,47,College diploma,11,"$40,000 - $49,999",How truthful people are when participating in tasks that include others.,2,Everything was great.,1,1
-77,FRST3,1ely1jk9keec0csg,P2,9191058992,6,6,NA,1,9,Pass,107.170.127.117,2018-08-09 19:21:53.723303+00:00,Passed,NA,NA,NA,8,NA,NA,NA,0,Male,Non hispanic,White,30,Professional post-secondary degree or doctoral degree,10,"$30,000 - $39,999",a game of interweaving and wisdom,2,best instructions,1,1
-78,FRST3,5qs2tigbkeec0csg,P2,9298719821,12,12,NA,1,10,Pass,174.126.69.194,2018-08-09 19:46:49.771891+00:00,Passed,NA,NA,NA,12,NA,NA,NA,0,Female,Non hispanic,White,61,Some college,31,"$50,000 - $59,999",Sit back and get the money that P1 decides,2,Have no idea,1,1
-79,FRST3,wxj50uiqkeec0csg,P2,9949334282,8,20,NA,1,5,Pass,162.200.74.157,2018-08-09 18:00:09.032118+00:00,Passed,NA,NA,NA,17,NA,NA,NA,0,Female,Non hispanic,Hispanic/Latino/Latina,33,College diploma,43,"$50,000 - $59,999",To tell if a stranger was lying,3,"Nothing, it was fine. Maybe shorten instructions",1,1
-80,FRST3,b4kfjv98keec0csg,P2,9070537815,12,12,NA,1,12,Pass,173.88.24.187,2018-08-09 22:00:55.889918+00:00,Passed,NA,NA,NA,10,NA,NA,NA,0,Female,Non hispanic,Black/African American,33,Professional post-secondary degree or doctoral degree,35,"$120,000 - $149,999",To determine is player 1 truthfully reports when there is an incentive not to,3,It was good,1,1
+id,treat,code_pay,role,group,hidden_number,report1,duplicate,report2,ranking
+1,FRST3,p3session1data,P2,3462410302,1,1,1,NA,1
+2,FRST3,p3session1data,P2,7297924041,2,2,1,NA,1
+3,FRST3,p3session1data,P2,7834282428,5,5,1,NA,1
+4,FRST3,p3session1data,P2,4595193272,15,15,1,NA,1
+5,FRST3,p3session1data,P2,4795289764,7,16,1,NA,1
+6,FRST3,p3session1data,P2,7473476962,22,22,1,NA,1
+7,FRST3,p3session1data,P2,4837529222,29,29,1,NA,1
+8,FRST3,p3session1data,P2,5728916070,14,14,1,NA,2
+9,FRST3,p3session1data,P2,1277931993,14,14,1,NA,2
+10,FRST3,p3session1data,P2,9191058992,6,6,1,NA,3
+11,FRST3,p3session1data,P2,5495489703,6,6,1,NA,3
+12,FRST3,p3session1data,P2,5905072759,6,6,1,NA,3
+13,FRST3,p3session1data,P2,9070537815,12,12,1,NA,3
+14,FRST3,p3session1data,P2,9298719821,12,12,1,NA,3
+15,FRST3,p3session1data,P2,9456009539,12,12,1,NA,3
+16,FRST3,p3session1data,P2,7440564895,6,25,1,NA,3
+17,FRST3,p3session1data,P2,3902014166,25,25,1,NA,3
+18,FRST3,p3session1data,P2,3621001022,7,25,1,NA,3
+19,FRST3,p3session1data,P2,5633484788,9,9,1,NA,4
+20,FRST3,p3session1data,P2,3868563718,9,9,1,NA,4
+21,FRST3,p3session1data,P2,5318347353,9,9,1,NA,4
+22,FRST3,p3session1data,P2,9492778415,9,9,1,NA,4
+23,FRST3,p3session1data,P2,9156963683,7,7,2,NA,5
+24,FRST3,p3session1data,P2,9262692452,7,7,1,NA,5
+25,FRST3,p3session1data,P2,3398003989,7,7,1,NA,5
+26,FRST3,p3session1data,P2,2089228338,7,7,2,NA,5
+27,FRST3,p3session1data,P2,7201552387,7,7,1,NA,5
+28,FRST3,p3session1data,P2,7885978277,8,8,1,NA,6
+29,FRST3,p3session1data,P2,5214081075,8,8,2,NA,6
+30,FRST3,p3session1data,P2,8474284097,8,8,1,NA,6
+31,FRST3,p3session1data,P2,5452480447,8,8,2,NA,6
+32,FRST3,p3session1data,P2,5864903011,8,8,1,NA,6
+33,FRST3,p3session1data,P2,4095880988,8,8,1,NA,6
+34,FRST3,p3session1data,P2,4944621495,11,11,2,NA,6
+35,FRST3,p3session1data,P2,4823600447,11,11,1,NA,6
+36,FRST3,p3session1data,P2,3882032862,11,11,2,NA,6
+37,FRST3,p3session1data,P2,1686017610,11,11,1,NA,6
+38,FRST3,p3session1data,P2,1317853748,11,11,2,NA,6
+39,FRST3,p3session1data,P2,1901770244,11,11,2,NA,6
+40,FRST3,p3session1data,P2,1683282369,10,10,1,NA,8
+41,FRST3,p3session1data,P2,6136893538,10,10,2,NA,8
+42,FRST3,p3session1data,P2,8791118882,10,10,1,NA,8
+43,FRST3,p3session1data,P2,2710413478,10,10,2,NA,8
+44,FRST3,p3session1data,P2,8248647697,10,10,2,NA,8
+45,FRST3,p3session1data,P2,8242110999,10,10,2,NA,8
+46,FRST3,p3session1data,P2,7350532645,10,10,1,NA,8
+47,FRST3,p3session1data,P2,6733190728,10,10,2,NA,8
+48,FRST3,p3session1data,P2,9070329436,11,20,2,NA,10
+49,FRST3,p3session1data,P2,6406771025,8,20,2,NA,10
+50,FRST3,p3session1data,P2,6643486403,20,20,1,NA,10
+51,FRST3,p3session1data,P2,4587859267,9,20,2,NA,10
+52,FRST3,p3session1data,P2,5924274120,7,20,2,NA,10
+53,FRST3,p3session1data,P2,4587271130,9,20,1,NA,10
+54,FRST3,p3session1data,P2,2208466397,10,20,1,NA,10
+55,FRST3,p3session1data,P2,3329144730,20,20,2,NA,10
+56,FRST3,p3session1data,P2,9949334282,8,20,1,NA,10
+57,FRST3,p3session1data,P2,1938160896,11,20,2,NA,10
+58,FRST3,p3session1data,P2,1612244340,9,30,1,NA,23
+59,FRST3,p3session1data,P2,3467297610,30,30,1,NA,23
+60,FRST3,p3session1data,P2,9720220340,9,30,2,NA,23
+61,FRST3,p3session1data,P2,4050289723,11,30,2,NA,23
+62,FRST3,p3session1data,P2,8566721478,6,30,1,NA,23
+63,FRST3,p3session1data,P2,6675129932,10,30,1,NA,23
+64,FRST3,p3session1data,P2,8633535452,8,30,1,NA,23
+65,FRST3,p3session1data,P2,1553353308,2,30,1,NA,23
+66,FRST3,p3session1data,P2,9166091870,11,30,1,NA,23
+67,FRST3,p3session1data,P2,8460445455,10,30,1,NA,23
+68,FRST3,p3session1data,P2,6947808731,3,30,1,NA,23
+69,FRST3,p3session1data,P2,4024506828,30,30,2,NA,23
+70,FRST3,p3session1data,P2,3989813267,9,30,2,NA,23
+71,FRST3,p3session1data,P2,7426976779,2,30,2,NA,23
+72,FRST3,p3session1data,P2,1034467624,9,30,1,NA,23
+73,FRST3,p3session1data,P2,5238558221,6,30,2,NA,23
+74,FRST3,p3session1data,P2,3630154851,7,30,1,NA,23
+75,FRST3,p3session1data,P2,5461037940,11,30,1,NA,23
+76,FRST3,p3session1data,P2,1403716622,9,30,1,NA,23
+77,FRST3,p3session1data,P2,2129676156,9,30,1,NA,23
+78,FRST3,p3session1data,P2,2723757741,8,30,2,NA,23
+79,FRST3,p3session1data,P2,9345739981,13,30,1,NA,23
+80,FRST3,p3session1data,P2,2471581662,9,30,2,NA,23
+81,FRST3,p3session1data,P2,4024506828,30,30,2,NA,23
+82,FRST3,p3session1data,P2,5238558221,6,30,2,NA,23
+83,FRST3,p3session1data,P2,1403716622,9,30,2,NA,23
+84,FRST3,p3session1data,P2,9166091870,11,30,2,NA,23
+85,FRST3,p3session1data,P2,9720220340,9,30,2,NA,23
+86,FRST3,p3session1data,P2,8460445455,10,30,2,NA,23
+87,FRST3,p3session1data,P2,5461037940,11,30,2,NA,23
+88,FRST3,p3session1data,P2,8633535452,8,30,2,NA,23
+89,FRST3,p3session1data,P2,2723757741,8,30,2,NA,23
+90,FRST3,p3session1data,P2,1034467624,9,30,2,NA,23
+91,FRST3,p3session1data,P2,3467297610,30,30,2,NA,23
+92,FRST3,p3session1data,P2,9345739981,13,30,2,NA,23
+93,FRST3,p3session1data,P2,1553353308,2,30,2,NA,23
+94,FRST3,p3session1data,P2,7426976779,2,30,2,NA,23
+95,FRST3,p3session1data,P2,2129676156,9,30,2,NA,23
+96,FRST3,p3session1data,P2,4050289723,11,30,2,NA,23
+97,FRST3,p3session1data,P2,1612244340,9,30,2,NA,23
+98,FRST3,p3session1data,P2,2471581662,9,30,2,NA,23
+99,FRST3,p3session1data,P2,6947808731,3,30,2,NA,23
+100,FRST3,p3session1data,P2,6675129932,10,30,2,NA,23
+101,FRST3,p3session1data,P2,3989813267,9,30,2,NA,23
+102,FRST3,p3session1data,P2,3630154851,7,30,2,NA,23
+103,FRST3,p3session1data,P2,8566721478,6,30,2,NA,23
+104,FRST3,p3session1data,P2,9949334282,8,20,2,NA,10
+105,FRST3,p3session1data,P2,9070329436,11,20,2,NA,10
+106,FRST3,p3session1data,P2,4587859267,9,20,2,NA,10
+107,FRST3,p3session1data,P2,6406771025,8,20,2,NA,10
+108,FRST3,p3session1data,P2,4587271130,9,20,2,NA,10
+109,FRST3,p3session1data,P2,5924274120,7,20,2,NA,10
+110,FRST3,p3session1data,P2,6643486403,20,20,2,NA,10
+111,FRST3,p3session1data,P2,3329144730,20,20,2,NA,10
+112,FRST3,p3session1data,P2,2208466397,10,20,2,NA,10
+113,FRST3,p3session1data,P2,1938160896,11,20,2,NA,10
+114,FRST3,p3session1data,P2,8242110999,10,10,2,NA,8
+115,FRST3,p3session1data,P2,8791118882,10,10,2,NA,8
+116,FRST3,p3session1data,P2,2710413478,10,10,2,NA,8
+117,FRST3,p3session1data,P2,7350532645,10,10,2,NA,8
+118,FRST3,p3session1data,P2,1683282369,10,10,2,NA,8
+119,FRST3,p3session1data,P2,6733190728,10,10,2,NA,8
+120,FRST3,p3session1data,P2,6136893538,10,10,2,NA,8
+121,FRST3,p3session1data,P2,8248647697,10,10,2,NA,8
+122,FRST3,p3session1data,P2,3882032862,11,11,2,NA,6
+123,FRST3,p3session1data,P2,1317853748,11,11,2,NA,6
+124,FRST3,p3session1data,P2,4944621495,11,11,2,NA,6
+125,FRST3,p3session1data,P2,1686017610,11,11,2,NA,6
+126,FRST3,p3session1data,P2,1901770244,11,11,2,NA,6
+127,FRST3,p3session1data,P2,4823600447,11,11,2,NA,6
+128,FRST3,p3session1data,P2,7885978277,8,8,2,NA,6
+129,FRST3,p3session1data,P2,5864903011,8,8,2,NA,6
+130,FRST3,p3session1data,P2,4095880988,8,8,2,NA,6
+131,FRST3,p3session1data,P2,5452480447,8,8,2,NA,6
+132,FRST3,p3session1data,P2,5214081075,8,8,2,NA,6
+133,FRST3,p3session1data,P2,8474284097,8,8,2,NA,6
+134,FRST3,p3session1data,P2,2089228338,7,7,2,NA,5
+135,FRST3,p3session1data,P2,9156963683,7,7,2,NA,5
+136,FRST3,p3session1data,P2,3398003989,7,7,2,NA,5
+137,FRST3,p3session1data,P2,9262692452,7,7,2,NA,5
+138,FRST3,p3session1data,P2,7201552387,7,7,2,NA,5
+139,FRST3,p3session1data,P2,5633484788,9,9,2,NA,4
+140,FRST3,p3session1data,P2,5318347353,9,9,2,NA,4
+141,FRST3,p3session1data,P2,3868563718,9,9,2,NA,4
+142,FRST3,p3session1data,P2,9492778415,9,9,2,NA,4
+143,FRST3,p3session1data,P2,7440564895,6,25,2,NA,3
+144,FRST3,p3session1data,P2,3621001022,7,25,2,NA,3
+145,FRST3,p3session1data,P2,3902014166,25,25,2,NA,3
+146,FRST3,p3session1data,P2,9298719821,12,12,2,NA,3
+147,FRST3,p3session1data,P2,9070537815,12,12,2,NA,3
+148,FRST3,p3session1data,P2,9456009539,12,12,2,NA,3
+149,FRST3,p3session1data,P2,9191058992,6,6,2,NA,3
+150,FRST3,p3session1data,P2,5905072759,6,6,2,NA,3
+151,FRST3,p3session1data,P2,5495489703,6,6,2,NA,3
+152,FRST3,p3session1data,P2,1277931993,14,14,2,NA,2
+153,FRST3,p3session1data,P2,5728916070,14,14,2,NA,2
+154,FRST3,p3session1data,P2,4837529222,29,29,2,NA,1
+155,FRST3,p3session1data,P2,7473476962,22,22,2,NA,1
+156,FRST3,p3session1data,P2,4795289764,7,16,2,NA,1
+157,FRST3,p3session1data,P2,4595193272,15,15,2,NA,1
+158,FRST3,p3session1data,P2,7834282428,5,5,2,NA,1
+159,FRST3,p3session1data,P2,7297924041,2,2,2,NA,1
+160,FRST3,p3session1data,P2,3462410302,1,1,2,NA,1
