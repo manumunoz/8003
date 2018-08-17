@@ -138,13 +138,6 @@ SESSION_CONFIGS = [
         'treatment': 1,
     },
     {
-        'name': 'p3_no3',
-        'display_name': "p3_no3",
-        'num_demo_participants': 8,
-        'app_sequence': ['p3_no3'],
-        'treatment': 2,
-    },
-    {
         'name': 'p3_exo3',
         'display_name': "p3_exo3",
         'num_demo_participants': 8,
