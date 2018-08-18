@@ -131,13 +131,6 @@ SESSION_CONFIG_DEFAULTS = {
 
 SESSION_CONFIGS = [
     {
-        'name': 'p3_frst3',
-        'display_name': "p3_frst3",
-        'num_demo_participants': 8,
-        'app_sequence': ['p3_frst3'],
-        'treatment': 1,
-    },
-    {
         'name': 'p3_exo3',
         'display_name': "p3_exo3",
         'num_demo_participants': 8,
